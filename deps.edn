@@ -1,0 +1,3 @@
+{:deps {clj-ssg {:git/url "https://gitlab.com/unc-app-lab/clj-ssg"
+                 :sha "6ccb80f92fce60531be4ac1785913a8be63859de"}}
+ :aliases {:ssg {:main-opts ["-m" "edu.unc.applab.ssg.main"]}}}
