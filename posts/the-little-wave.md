@@ -2,7 +2,7 @@
 title: The Little Wave
 author: Jesper Højgaard
 date: 2013-06-06
-tags: reality
+tags: transcendence
 ---
 
 There is this story about the little wave, bobbing along in the ocean, having a grand old time.
