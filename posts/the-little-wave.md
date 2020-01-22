@@ -11,7 +11,6 @@ There is this story about the little wave, bobbing along in the ocean, having a 
 
 ![](/ry.jpg)
 
-
 He is enjoying the wind and the fresh air – until he notices the other waves in front of him, crashing against the shore.
 ‘My God, this is terrible,’ the wave says. ‘Look what’s going to happen to me!’
 Then along comes another wave. It sees the first wave, looking grim, and it says to him, ‘Why do you look so sad?’
