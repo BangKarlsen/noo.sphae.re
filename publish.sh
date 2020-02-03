@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compile new site
-echo 'Building new site'
+echo 'Building new site...'
 clj -Assg
 echo 'Done'
 
@@ -17,4 +17,6 @@ cp -r dist/* docs/
 git status -s
 git add docs/*
 git commit -m 'Publish new site'
+echo 'Pushing new site to remote...'
 git push
+echo "We're live at https://noo.sphae.re"
